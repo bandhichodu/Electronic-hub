@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>mobiles</title>
+        <link rel="stylesheet" href="style3.css">
+        
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="logo.jpg" class="logo">
+                <ul>
+                    <li><a href="mob1.html">Mobiles</a></li>
+                    <li><a href="laptop.html">Laptops</a></li>
+                    <li><a href="tv.html">TV's</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                </ul>
+            </div>
+        <div class="banner">
+            <center><br><h1>Here is list of latest mobiles</h1></center>
+            <div class="box1">    
+            </div>
+            <div class="box2">
+            </div>
+            <div class="box3"></div>
+            <div class="box4"></div>
+            <div class="box5"></div>
+            <div class="con1"><h3>OPPO f19 pro+5G </h3>
+                <p>* Storage : 8GB RAM || 128GB ROM<br>* Camera : 50MP + 8MP + 2MP + 2MP | 16MP Front Camera
+                <br>* Battery-capacity : 4310 mAh Lithium-ion Polymer Battery<br>
+                * Processor : MediaTek Dimensity 800U Processor<br>
+                * Get this product <a href="https://www.flipkart.com/oppo-f19-pro-5g-fluid-black-128-gb/p/itmd90acf0f30ad6?pid=MOBGFUZ4XC4VCJAY&lid=LSTMOBGFUZ4XC4VCJAYUVMETX&marketplace=FLIPKART&q=oppo+f19+pro+plus+5g&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=3bb5732c-beb6-48f2-b8d9-bbca4434ebbe.MOBGFUZ4XC4VCJAY.SEARCH&ppt=sp&ppn=sp&ssid=zpf6988ow00000001669736034552&qH=3d04835db07eb642">
+                    - "buy now"</a><br><br><br><br><br><br><br><br><br><br>
+                
+                <h3>realme GT2</h3>
+                * Storage : 12GB RAM || 256GB ROM<br>* Camera : 48MP + 8MP + 2MP  | 16MP Front Camera
+                <br>* Battery-capacity : 5000 mAh Lithium-ion Polymer Battery<br>
+                * Processor : Qualcomm Snapdragon 888 Processor<br>
+                * Get this product  <a href="https://www.flipkart.com/realme-gt-2-pro-paper-white-256-gb/p/itm125e5a8c1de92?pid=MOBGCRYZQWG5YWBS&lid=LSTMOBGCRYZQWG5YWBSTI7D0S&marketplace=FLIPKART&q=realme+gt2+pro&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_11_na_na_na&fm=Search&iid=c281f9c2-4b31-4dfa-846b-23a6a9100e6d.MOBGCRYZQWG5YWBS.SEARCH&ppt=sp&ppn=sp&ssid=xu13veqckg0000001669736398788&qH=00868ba086383bd0">
+                    - "buy now"</a>
+                <br><br><br><br><br><br><br><br><br><br><br><br>
+                <h3>OnePlus Nord CE 2 Lite 5G</h3>
+                * Storage : 6GB RAM || 128GB ROM<br>Camera : 64MP rear Camera
+                <br>* Battery-capacity : 5000 mAh Lithium-ion Polymer Battery<br>
+                * Processor :  Qualcomm® Snapdragon™ 695 5G GP<br>* Get this product  <a href="https://www.flipkart.com/oneplus-nord-ce-2-lite-5g-black-dusk-128-gb/p/itm7acae55b999e6?pid=MOBGHH9FVUHCFHTY&lid=LSTMOBGHH9FVUHCFHTY6YQ0XR&marketplace=FLIPKART&q=nePlus+Nord+CE+2+Lite+5G&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=d7e2a9c1-7687-4bad-a64a-ee9dbdf58d4e.MOBGHH9FVUHCFHTY.SEARCH&ppt=pp&ppn=pp&ssid=fud6fwtzkg0000001669736519580&qH=fb120ee2729ebeb0    ">
+                    - "buy now"</a>
+                <br><br><br><br><br><br><br><br><br><br><br><br>
+                <h3>Poco X4 pro 5G</h3>
+                * Storage : 6GB RAM || 128GB ROM<br>* Camera : 64MP + 8MP + 2MP | 16 Front Camera
+                <br>* Battery-capacity : 5000 mAh Lithium-ion Polymer Battery<br>
+                * Processor :  Qualcomm® Snapdragon™ 695 5G GP<br>* Get this product <a href="https://www.flipkart.com/poco-x4-pro-5g-yellow-128-gb/p/itm2d063bb92f40c?pid=MOBGCGZZ2UGZBAZK&lid=LSTMOBGCGZZ2UGZBAZKZVVXQK&marketplace=FLIPKART&q=poco+x4+pro&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=386d5909-7ac3-4ea3-a4c7-d6cd0849332e.MOBGCGZZ2UGZBAZK.SEARCH&ppt=sp&ppn=sp&ssid=93zw5umeds0000001669736663864&qH=4dd0414243d97ef6">
+                    - "buy now"</a>
+                <br><br><br><br><br><br><br><br><br><br>
+                <h3>Samsung Galaxy M33 5G</h3>
+                * Storage : 6GB RAM || 128GB ROM<br>* Camera : 50MP rear Camera
+                <br>* Battery-capacity : 6000 mAh Lithium-ion Polymer Battery<br>
+                * Processor :  5nm Octa-core processor<br>
+                * Get this product <a href="https://www.flipkart.com/samsung-galaxy-m33-5g-emarld-brown-128-gb/p/itm2aa4db0a58c8a?pid=MOBGEMQSCNWJQ8EY&lid=LSTMOBGEMQSCNWJQ8EYJ2P19S&marketplace=FLIPKART&q=Samsung+Galaxy+M33+5G&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=4fb83ef8-1676-476c-8feb-3134736ff5fb.MOBGEMQSCNWJQ8EY.SEARCH&ppt=pp&ppn=pp&ssid=y11jg1ooow0000001669736751151&qH=d79948d9d14f063c">- "buy now"</a></p><br><br><br>
+                <button type="button"><span></span><a href="index.html">BACK</a></button>
+
+        </div>
+    </body>

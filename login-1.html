@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>login-1</title>
+        <link rel="stylesheet" href="style1.css">
+        <script type="text/javascript">
+            function validateForm()
+         {
+         var mail = document.registration.mail.value;
+         var ma = document.registration.pass.value;
+        
+         if(mail=="" || mail=="null")
+         {
+            alert("please enter your email");
+            document.registration.mail.focus();
+            return false;
+         }
+            var atpos = mail.indexOf("@");
+            var dotpos = mail.lastIndexOf(".");
+         if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= mail.length)
+         {
+            alert("Not a valid e-mail address");
+            return false;
+         }
+         if(ma =="" || ma=="null")
+         {
+            alert("please enter your password");
+            document.registration.pass.focus();
+            return false;
+         }
+         window.open('index.html')
+            alert("login successfull");
+            return true;
+         }
+        
+        </script>
+        
+    </head>
+    <body>
+        <div class="banner">
+        </div>
+        <div class="loginbox">
+            <h1>Login Here</h1>
+            <form name="registration" action="log.jsp" method="post" onsubmit="return validateForm();">
+
+                <p>Mail/User name</p>
+                <input type="text" name="email" placeholder="Enter Mail">
+                <p>password</p>
+                <input type="password" name="password" placeholder="Enter Password">
+                <input type="submit" name="submit" value="Login">
+                <input type="reset" name="" value="reset">
+
+            </form>
+        </div>
+    </body>
+
+</html>

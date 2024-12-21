@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>LAPTOP</title>
+        <link rel="stylesheet" href="style4.css">
+    </head>
+    <body>
+        <div class="banner">
+            <div class="navbar">
+                <img src="logo.jpg" class="logo">
+                <ul>
+                    <li><a href="mob1.html">Mobiles</a></li>
+                    <li><a href="laptop.html">Laptops</a></li>
+                    <li><a href="tv.html">TV's</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                </ul>
+            </div>
+        <div class="banner">
+            <center><br><h1>Here is the list of latest laptops</h1></center>
+            <div class="box1">    
+        </div>
+        <div class="box2">
+        </div>
+        <div class="box3"></div>
+        <div class="box4"></div>
+        <div class="box5"></div>
+
+        <div class="con1"><h3>HP ENVY </h3>
+            <p>* Intel Core i5 Processor (11 Gen)<br>* 16 GB DDR4 RAM
+            <br>* 64 bit windows10 Operating System<br>
+            * 33.78 cm (13.3 Inch) Display<br>* Get this product 
+            <a href="rs.html">- "buy now "</a>
+            <br><br><br><br><br><br><br><br><br><br>
+            <h3>Lenovo ThinkBook 14</h3>
+            <p>* Intel Core i5 Processor (10th Gen)<br>* 8 GB DDR4 RAM
+                <br>* 64 bit windows10 Operating System<br>
+                * 35.56 cm (14 Inch) Display<br>* Get this product 
+                <a href="https://www.flipkart.com/lenovo-thinkbook-14-core-i5-10th-gen-8-gb-256-gb-ssd-windows-10-pro-iml-thin-light-laptop/p/itm7eb4cb3d0bde7?pid=COMFU2JFAUXPTBWS&lid=LSTCOMFU2JFAUXPTBWSEDMACR&marketplace=FLIPKART&q=lenovo+thinkbook+14&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=bf888249-9ea1-4902-b9fb-72bce245f069.COMFU2JFAUXPTBWS.SEARCH&ppt=pp&ppn=pp&ssid=lgq1norr0w0000001669737238221&qH=ac175692bf783df9">- "click here"</a>
+            <br><br><br><br><br><br><br><br><br><br><br>
+            <h3>DELL Inspiron Core</h3>
+            <p>* Intel Core i5 Processor (11th Gen)<br>* 8 GB DDR4 RAM
+                <br>* 64 bit windows 11 Operating System<br>
+                * 39.62 cm (15.6 Inch) Display<br>* Get this product 
+                <a href="https://www.flipkart.com/dell-inspiron-athlon-dual-core-3050u-8-gb-256-gb-ssd-windows-11-home-3525-notebook/p/itm96a6101fa53ff?pid=COMGCYF9EZKKPEWD&lid=LSTCOMGCYF9EZKKPEWDXSSFWJ&marketplace=FLIPKART&q=DELL+Inspiron+Core&store=6bo%2Fb5g&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=02d0f53f-b46c-4a89-82fd-14954dd8d7f5.COMGCYF9EZKKPEWD.SEARCH&ppt=pp&ppn=pp&ssid=duwbgofe4g0000001669737396560&qH=1cea3aff41c8e2c3">- "click here"</a>
+            <br><br><br><br><br><br><br><br><br><br><br><br>
+            <h3>MI Notebook 14</h3>
+            <p>* Intel Core i5 Processor (10th Gen)<br>* 8 GB DDR4 RAM
+            <br>* 64 bit windows 10 Operating System<br>
+            * 35.56 cm (14 Inch) Display <br>* Get this product 
+            <a href="https://www.flipkart.com/mi-notebook-horizon-14-core-i7-10th-gen-8-gb-512-gb-ssd-windows-10-home-2-graphics-jyu4246in-thin-light-laptop/p/itmd089c75cd439e?pid=COMFZEYHZAYXNTDY&lid=LSTCOMFZEYHZAYXNTDYABSQVX&marketplace=FLIPKART&q=mi+notebook+14&store=search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=e3f40560-69c4-4867-b27f-27e2320c4d33.COMFZEYHZAYXNTDY.SEARCH&ppt=sp&ppn=sp&ssid=uhcjq0rceo0000001669737519967&qH=034fb43140c43f20">- "click here"</a>
+            <br><br><br><br><br><br><br><br><br><br><br>
+            <h3>ASUS VivoBook 15</h3>
+            <p>* Intel Core i3 Processor (10th Gen)<br>* 8 GB DDR4 RAM
+            <br>* 64 bit windows 11 Operating System<br>
+            * 39.62 cm (15.6s Inch) Display <br>* Get this product 
+            <u><a href="https://www.flipkart.com/asus-vivobook-15-core-i3-10th-gen-8-gb-512-gb-ssd-windows-11-home-x515ja-ej382ws-x515ja-laptop/p/itm46cefd99c9a5e?pid=COMGHXFZX7SGP39V&lid=LSTCOMGHXFZX7SGP39VB7BD9G&marketplace=FLIPKART&q=ASUS+VivoBook+15&store=6bo%2Fb5g&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=8f08b0a3-7b3a-4d48-a3c2-8b429859632e.COMGHXFZX7SGP39V.SEARCH&ppt=pp&ppn=pp&ssid=49pjnk5xm80000001669737610746&qH=9533c874df8c6204">- "click here"</a></u>
+            <br><br><BR><button type="button"><span></span><a href="index.html">BACK</a></button>
+
+
+
+
+    </body>
+</html>
